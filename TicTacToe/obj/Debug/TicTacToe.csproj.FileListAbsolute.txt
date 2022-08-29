@@ -1,0 +1,11 @@
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\shaier\Desktop\C# Testing\TicTacToe\obj\Debug\TicTacToe.pdb
